@@ -78,12 +78,13 @@ section{
 #home{
     background-color: rgb(16, 187, 90);
     color: whitesmoke;
-    height: 40rem;
+    /* height: 40rem; */
+    padding: 2rem 0;
 }
 
 .intro{
     padding-top: 2rem;
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
 }
 
 .intro-img{
@@ -127,7 +128,7 @@ section{
 #about{
     background-color: rgb(191, 232, 211);
     color: rgb(55, 36, 36);
-    height: 40rem;
+    /* height: 50rem; */
 }
 
 #about p{
